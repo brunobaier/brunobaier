@@ -22,9 +22,11 @@ I'm an autodidact guy, and very curious about technology. This is my repository 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 
 ## Stats📈
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobaier&theme=blue-black)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=brunobaier&show_icons=true)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunobaier&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFF6&hide=html,css&bg_color=FFFFFF&text_color=8B8B8B&border_radius=3&border_color=FFFF6&count_private=true)](https://github.com/brunobaier/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=brunobaier&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=FFFFF&title_color=FFFF6&text_color=FFFF6&border_radius=3&border_color=FFFF6&icon_color=FFFF6)
+
  
  
 <!--### Hi there 👋 
