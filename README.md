@@ -5,8 +5,10 @@ Future Java Back-End Developer, currently studying Information Systems at UPE, a
 I'm an autodidact guy, and very curious about technology. This is my repository on GitHub. Every software produced by me is available under Free Software Licenses (except for professional projects, of course). Feel free to use, modify, and make copies
 
 ## Languages and Tools🔨
+![Python](https://img.shields.io/badge/python-3670A0?style=flat_square&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
@@ -15,7 +17,6 @@ I'm an autodidact guy, and very curious about technology. This is my repository 
 
 ## Studying currently...📚
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat_square&logo=python&logoColor=ffdd54)
 ## Stats📈
 
 [![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunobaier&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFF6&hide=html,css&bg_color=FFFFFF&text_color=8B8B8B&border_radius=3&border_color=FFFF6&count_private=true)](https://github.com/brunobaier/github-readme-stats)
