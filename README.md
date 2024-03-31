@@ -16,8 +16,6 @@ I'm an autodidact guy, and very curious about technology. This is my repository 
 ## Studying currently...📚
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat_square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-
 ## Stats📈
 
 [![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=brunobaier&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FFFF6&hide=html,css&bg_color=FFFFFF&text_color=8B8B8B&border_radius=3&border_color=FFFF6&count_private=true)](https://github.com/brunobaier/github-readme-stats)
